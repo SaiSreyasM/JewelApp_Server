@@ -1,0 +1,87 @@
+{
+  "earrings": [
+    {
+      "title": "Minola Golden Earrings",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/05dSXZTS/11.jpg",
+      "id": 1
+    },
+    {
+      "title": "Minola Silver Earrings",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/8CMcJzDv/22.jpg",
+      "id": 2
+    },
+    {
+      "title": "Sone Golden Earrings",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/6QXwPLJ7/33.jpg",
+      "id": 3
+    },
+    {
+      "title": "Sone Golden Earrings",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/qvfdtX7m/44.jpg",
+      "id": 4
+    },
+    {
+      "title": "Venus Diamond Earrings",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/3RPHggBJ/55.jpg",
+      "id": 5
+    }
+  ],
+  "necklaces": [
+    {
+      "title": "Minola Golden Necklace",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/0ygCKZJH/11.jpg",
+      "id": 1
+    },
+    {
+      "title": "Venus Golden Necklace",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/j59gjf0H/22.jpg",
+      "id": 2
+    },
+    {
+      "title": "Venus Silver Necklace",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/VvQqTWPV/33.jpg",
+      "id": 3
+    }
+  ],
+  "rings": [
+    {
+      "title": "Minola Golden Ring",
+      "price": "$240.00",
+      "coverimg": "https://i.postimg.cc/MT2ksgX2/r1.jpg",
+      "id": 1
+    },
+    {
+      "title": "Minola Golden Ring",
+      "price": "$265.00",
+      "coverimg": "https://i.postimg.cc/HxCK05PT/r2.jpg",
+      "id": 2
+    },
+    {
+      "title": "Minola Golden Ring",
+      "price": "$390.00",
+      "coverimg": "https://i.postimg.cc/sfm8SMPR/r3.jpg",
+      "id": 3
+    },
+    {
+      "title": "Minola Golden Ring",
+      "price": "$375.00",
+      "coverimg": "https://i.postimg.cc/wv7VmB99/r4.jpg",
+      "id": 4
+    },
+    {
+      "title": "Verra Diamond Ring",
+      "price": "$325.00",
+      "coverimg": "https://i.postimg.cc/mDYrVYLj/r5.jpg",
+      "id": 5
+    }
+    
+  ]
+}
